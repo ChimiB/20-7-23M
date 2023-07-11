@@ -225,3 +225,12 @@ a:hover {
         width: 50%;
         height: 150px;
     }}
+.Gracias{
+    color: 1;
+    background-color: #6c0296;
+    padding: 20px;
+    margin: 20px 70px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 25px
+}
