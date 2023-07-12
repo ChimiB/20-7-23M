@@ -1,0 +1,36 @@
+#Ruleta .seccion:first-child .seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:first-child(2) .seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(3).seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(4).seccionContainer{
+    background-color: orange;
+}
+#Ruleta .seccion:nth-child(5).seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(6).seccionContainer{
+    background-color: orange;
+}
+#Ruleta .seccion:nth-child(7).seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(8).seccionContainer{
+    background-color: orange;
+}
+#Ruleta .seccion:nth-child(9).seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(10).seccionContainer{
+    background-color: orange;
+}
+#Ruleta .seccion:nth-child(11).seccionContainer{
+    background-color: purple;
+}
+#Ruleta .seccion:nth-child(12).seccionContainer{
+    background-color: orange;
+}
