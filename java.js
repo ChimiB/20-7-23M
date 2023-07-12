@@ -1,5 +1,5 @@
 function showAlert() {
-    alert("TE AMO &#x1F49C;✨");
+    alert("TE AMO 💜✨");
   }
   document.querySelector("button.button-menu-toggle")
   .addEventListener("click", function () {
